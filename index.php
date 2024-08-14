@@ -12,15 +12,15 @@
         <h1 class="text-center">แบบฟอร์ม</h1>
         <div class="mb-3">
             <label class="form-label">ชื่อ</label>
-            <input type="text" class="form-control" name="name">
+            <input type="text" class="form-control" name="name" value="นายสรวิชญ์ สิทธิบวรสกุล">
         </div>
         <div class="mb-3">
             <label class="form-label">ชั้น</label>
-            <input type="text" class="form-control" name="class">
+            <input type="text" class="form-control" name="class" value="ม.6/10">
         </div>
         <div class="mb-3">
             <label class="form-label">เลขที่</label>
-            <input type="text" class="form-control" name="number">
+            <input type="text" class="form-control" name="number" value="11">
         </div>
         <div class="mb-3">
             <label class="form-label">เพศ</label>
