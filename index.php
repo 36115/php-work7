@@ -16,7 +16,7 @@
         </div>
         <div class="mb-3">
             <label class="form-label">ชั้น</label>
-            <input type="text" class="form-control" name="class" value="ม.6/10">
+            <input type="text" class="form-control" name="class" value="ม. 6/10">
         </div>
         <div class="mb-3">
             <label class="form-label">เลขที่</label>
